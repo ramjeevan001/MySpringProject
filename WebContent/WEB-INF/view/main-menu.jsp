@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2>Hello Spring Home!</h2>
+<h2>Welcome to GIT Repository</h2>
 </body>
 </html>
