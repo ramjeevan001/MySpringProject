@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2>Welcome to Office GIT Repository..!!! Nishitha Tadi Tom</h2>
+<h2>Spring MVC Demo - HOME Page</h2>
+
+<hr>
+
+<a href="hello/showForm">Hello World Form</a>
+
+<br><br>
+
+<a href="student/showForm">Student Form</a>
+
 </body>
 </html>
